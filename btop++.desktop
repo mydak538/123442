@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=btop
+Exec=gnome-terminal -- btop
+# или для KDE: Exec=konsole -e btop
+# или для любого терминала: Exec=xterm -e btop
+Icon=btop
+Type=Application
+Terminal=false
+Categories=System;
